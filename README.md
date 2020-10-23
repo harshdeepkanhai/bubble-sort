@@ -12,48 +12,42 @@ Additional description about the project and its features.
 
 - Ruby
 - Rubocop
-- Technologies used
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://repl.it/@kanhai/bubblesort)
 
 
 ## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
 
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-### Setup
+ - Ruby
+ - Rubocop gem 
 
-### Install
+### Setup
+  - `git clone` the repo
 
 ### Usage
+  - run `ruby bubble_sort.rb`
+  - edit the values in `bubble_sort.rb` to sort a different array
 
 ### Run tests
-
-### Deployment
-
+ - run `rubocop` in root directory to check for linter errors
 
 
-## Authors
 
-👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
+## Author
 
-👤 **Author2**
+👤 **K**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
+- GitHub: [@harshdeepkanhai](https://github.com/harshdeepkanhai)
+- Twitter: [@harshdeepkanhai](https://twitter.com/harshdeepkanhai)
+- LinkedIn: [harshdeepkanhai](https://linkedin.com/in/harshdeepkanhai)
+
 
 ## 🤝 Contributing
 
@@ -67,9 +61,8 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- [Wikipedia](https://en.wikipedia.org/wiki/Bubble_sort)
+- [The Odin Project](https://www.theodinproject.com/courses/ruby-programming/lessons/bubble-sort)
 
 ## 📝 License
 
