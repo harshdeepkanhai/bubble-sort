@@ -14,4 +14,4 @@ def bubble_sort(arr)
     arr
   end
   
-  p bubble_sort([32,4,1312,12,45])
+  p bubble_sort([32, 4, 1312, 12, 45])
