@@ -6,7 +6,6 @@
 
 ![screenshot](./Bubble-sort.gif)
 
-Additional description about the project and its features.
 
 ## Built With
 
